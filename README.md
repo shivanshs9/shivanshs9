@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 ### Visual profile
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshs9&theme=nord)" alt="trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshs9&theme=tokyonight)" alt="trophy" /></a>
   <a href="https://sourcerer.io/shivanshs9"><img src="https://user-images.githubusercontent.com/8217199/114708549-1d9e0200-9d49-11eb-9abc-28921565b0a4.png" alt="language graph"></a>
 </p>
